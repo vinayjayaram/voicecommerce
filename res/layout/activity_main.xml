@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text"
+        android:paddingTop="40dp"
+        android:layout_margin="10dp"
+        android:fontFamily="serif-monospace"
+        android:text="Please Enter your Mobile Number and Password"
+        android:textSize="20sp"
+       />
+
+    <EditText
+        android:id="@+id/phoneNumber"
+        android:layout_marginLeft="20dp"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawablePadding="5dp"
+        android:hint="    +1 Phone Number"
+        android:ems="10"
+        android:drawableStart="@drawable/usaicon"
+        android:inputType="phone"
+        android:drawableLeft="@drawable/usaicon" />
+
+    <EditText
+        android:id="@+id/emailId"
+        android:layout_marginLeft="20dp"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="  test@example.com"
+        android:drawablePadding="5dp"
+        android:ems="10"
+        android:drawableStart="@drawable/emailicon"
+        android:inputType="textEmailAddress"
+        android:drawableLeft="@drawable/emailicon" />
+
+    <EditText
+        android:id="@+id/passWord"
+        android:layout_marginLeft="20dp"
+        android:padding="10dp"
+        android:drawablePadding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="    Password"
+        android:ems="10"
+        android:drawableStart="@drawable/passwordicon"
+        android:inputType="textPassword"
+        android:drawableLeft="@drawable/passwordicon" />
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:padding="10dp"
+        android:textSize="20dp"
+        android:fontFamily="sans-serif"
+        android:textColor="#FFFFFF"
+        android:background="#0000A0"
+        android:text="Login" />
+
+
+</LinearLayout>
