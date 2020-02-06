@@ -3,43 +3,52 @@
         {
             "speaker": "Speaker 1",
             "transcript": "Alexa open ABC Asset Management",
-            "score": "0.9570671"
+            "score": 0.9570671
         },
         {
             "speaker": "Speaker 2",
             "transcript": " welcome to ABC Asset Management I can help you with your sales update product details meeting details and budget information what would you like to do I look like",
-            "score": "0.89961594"
+            "score": 0.899616
         },
         {
             "speaker": "Speaker 1",
+            "transcript": " you have a scheduled meeting tomorrow with John Russell and Grand Hyatt New York and heavy traffic is expected at that location during the same time would you like to reschedule yes",
+            "score": 0.9557094
+        },
+        {
+            "speaker": "Speaker 2",
             "transcript": " okay you have a free slot next week Wednesday at 2 p.m. do you want to go ahead with this lot yes",
-            "score": "0.9570671"
-        },
-        {
-            "speaker": "Speaker 2",
-            "transcript": " welcome to ABC Asset Management I can help you with your sales update product details meeting details and budget information what would you like to do I look like",
-            "score": "0.89961594"
+            "score": 0.9593286
         },
         {
             "speaker": "Speaker 1",
-            "transcript": "Alexa open ABC Asset Management",
-            "score": "0.9570671"
+            "transcript": " okay sending out an email to John Russell with the reason for rescheduling and heavy traffic to next Wednesday September 11th 2019 at the Grand Hyatt New York at 2 p.m.",
+            "score": 0.96413267
         },
         {
             "speaker": "Speaker 2",
-            "transcript": " welcome to ABC Asset Management I can help you with your sales update product details meeting details and budget information what would you like to do I look like",
-            "score": "0.89961594"
+            "transcript": " how does my budget look like",
+            "score": 0.9442224
         },
         {
             "speaker": "Speaker 1",
-            "transcript": "Alexa open ABC Asset Management",
-            "score": "0.9570671"
+            "transcript": " your budget for this quarter is about to expire you have $500 remaining looking at the data on your spending you might need another $6,000 to cover until next quarter Do You Want to Build a Snowman yes",
+            "score": 0.95959413
         },
         {
             "speaker": "Speaker 2",
-            "transcript": " welcome to ABC Asset Management I can help you with your sales update product details meeting details and budget information what would you like to do I look like",
-            "score": "0.89961594"
+            "transcript": " the budget for $6,000 has been added to your account",
+            "score": 0.9744836
+        },
+        {
+            "speaker": "Speaker 1",
+            "transcript": " Alexis.",
+            "score": 0.64227647
+        },
+        {
+            "speaker": "Speaker 2",
+            "transcript": " Thank you for using ABC Asset Management have a nice day",
+            "score": 0.96016955
         }
-    ],
-    "summary":""
+    ]
 }
