@@ -1,73 +1,45 @@
 {
-  "branchLocation": [
-    {
-      "id": 1,
-      "branchName": "SPYSS YOGA (Free Yoga Since 1980) : Ganesha Shaake, BTM 2nd Stage",
-      "contactNumber":"8660629036",
-      "branchTimings":"5:45–7AM",
-      "branchType":"General",
-      "branchAddress":"Vigneshwara Temple,, 4th Cross Road, BTM 2nd Stage, Bengaluru, Karnataka 560068",
-      "latitude":12.912516,
-      "longitude":77.613719,
-      "placeId":"ChIJVVXFWfsUrjsRPeLcUVTZ8qA"
-    },
-     {
-      "id": 2,
-      "branchName": "SPYSS YOGA (Free Yoga Since 1980) : Ruckmini Branch, RR Nagar",
-      "contactNumber":"9019063826",
-      "branchTimings":"5:45–7am; 4:45–6pm",
-      "branchType":"General",
-      "branchAddress":"Pariwar Shanbhag, 1st Main Rd, Sarvabhoumanagar, Sambhawa Naggapa Layout, Bilekahalli, Bengaluru, Karnataka 560076",
-      "latitude":12.897907,
-      "longitude":77.610814,
-      "placeId":"ChIJMyz-Ut4UrjsRE1rNk8fn-8s"
-    },
-    {
-      "id": 3,
-      "branchName": "SPYSS YOGA (Free Yoga Since 1980) : Vaikunta Narayana Temple Branch, Bilekahalli",
-      "contactNumber":"9482248669",
-      "branchTimings":" 5:30–7am; 8:30–10am; 11am–12:30pm; 4–5:30pm",
-      "branchType":"General",
-      "branchAddress":"1st Cross, Kempegowda Rd, Sachidananda Nagar, RR Nagar, Bengaluru, Karnataka 560098",
-      "latitude":12.912516,
-      "longitude":77.613719,
-      "placeId":"ChIJb6nlMao_rjsRmMppsXh4qEA"
-    },
-    {
-      "id": 4,
-      "branchName": "SPYSS YOGA (Free Yoga Since 1980) : Ayyappa Temple Branch, Bilekahalli",
-      "contactNumber":"99458 64806",
-      "branchTimings":"5:30–7AM",
-      "branchType":"General",
-      "branchAddress":"267, 6th Cross Rd, Vijaya Bank Layout, Bilekahalli, Bengaluru, Karnataka 560076",
-      "latitude":12.891624,
-      "longitude":77.60615,
-      "placeId":"ChIJ2UBeCicVrjsRyEdzudqsQTk"
-    },
-    {
-      "id": 5,
-      "branchName": "SPYSS YOGA (Free Yoga Since 1980) : Siddaganga Branch, Basaveshwar Nagar",
-      "contactNumber":"98800 09662",
-      "branchTimings":"5:30–7AM",
-      "branchType":"General",
-      "branchAddress":"Shivanagar, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
-      "latitude":12.991731,
-      "longitude":77.547759,
-      "placeId":"ChIJeYKOSpI9rjsRzs9OV0NPCLw"
-    },
-    {
-      "id": 6,
-      "branchName": "SPYSS YOGA (Free Yoga Since 1980) : SPYSS Head Quarters, Hanumantapura, Tumkuru",
-      "contactNumber":"9844855562",
-      "branchTimings":"5:30–7AM",
-      "branchType":"General",
-      "branchAddress":"Pathanjali Yoga Mandir, SPYSS Head Quarters, Hanumantapura, Tumkuru",
-      "latitude":13.349783,
-      "longitude":77.120592,
-      "placeId":"ChIJsXNiuzQssDsRV0dA7lqq6G0"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "text": [
+        {
+            "speaker": "Speaker 1",
+            "transcript": "Alexa open ABC Asset Management",
+            "score": "0.9570671"
+        },
+        {
+            "speaker": "Speaker 2",
+            "transcript": " welcome to ABC Asset Management I can help you with your sales update product details meeting details and budget information what would you like to do I look like",
+            "score": "0.89961594"
+        },
+        {
+            "speaker": "Speaker 1",
+            "transcript": " okay you have a free slot next week Wednesday at 2 p.m. do you want to go ahead with this lot yes",
+            "score": "0.9570671"
+        },
+        {
+            "speaker": "Speaker 2",
+            "transcript": " welcome to ABC Asset Management I can help you with your sales update product details meeting details and budget information what would you like to do I look like",
+            "score": "0.89961594"
+        },
+        {
+            "speaker": "Speaker 1",
+            "transcript": "Alexa open ABC Asset Management",
+            "score": "0.9570671"
+        },
+        {
+            "speaker": "Speaker 2",
+            "transcript": " welcome to ABC Asset Management I can help you with your sales update product details meeting details and budget information what would you like to do I look like",
+            "score": "0.89961594"
+        },
+        {
+            "speaker": "Speaker 1",
+            "transcript": "Alexa open ABC Asset Management",
+            "score": "0.9570671"
+        },
+        {
+            "speaker": "Speaker 2",
+            "transcript": " welcome to ABC Asset Management I can help you with your sales update product details meeting details and budget information what would you like to do I look like",
+            "score": "0.89961594"
+        }
+    ],
+    "summary":""
 }
